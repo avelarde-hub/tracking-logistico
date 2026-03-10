@@ -30,7 +30,7 @@ import {
   Save,
   X,
 } from "lucide-react";
-import logo from "./assets/Logo.jpeg";
+import logo from "./assets/logo.jpeg";
 
 const initialShipments = [
   {
