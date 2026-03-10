@@ -1089,7 +1089,7 @@ export default function PackageTrackingPage() {
           <div className="grid grid-cols-1 gap-8 px-6 py-8 md:px-8 lg:grid-cols-[1.2fr_0.8fr]">
             <div>
               <p className="text-sm font-medium uppercase tracking-[0.22em] text-blue-100"></p>
-              <h2 className="mt-2 text-3xl font-bold tracking-tight md:text-4xl">Seguimientoo profesional de carga, courier y transporte</h2>
+              <h2 className="mt-2 text-3xl font-bold tracking-tight md:text-4xl">Seguimiento profesional de carga, courier y transporte</h2>
               <p className="mt-3 max-w-2xl text-sm text-blue-50 md:text-base">
                 Búsqueda por tracking, booking o B/L; línea de tiempo operativa; detalle de contenedores; documentos asociados y visualización de ruta.
               </p>
