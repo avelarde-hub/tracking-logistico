@@ -776,7 +776,7 @@ export default function PackageTrackingPage() {
           <div className="rounded-[28px] border border-slate-200 bg-white p-8 shadow-sm">
             <div className="flex items-center gap-3">
               <div className="flex h-12 w-12 items-center justify-center overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-slate-200">
-                <img src={logo} alt="Logo" className="h-12 w-auto object-contain" />
+                <img src={logo} alt="Logo" className="h-20 w-auto object-contain" />
               </div>
               <div>
                 <p className="text-sm font-semibold uppercase tracking-[0.18em] text-slate-500">Secure access</p>
@@ -815,7 +815,7 @@ export default function PackageTrackingPage() {
           <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 px-4 py-4 sm:px-6 lg:px-8">
             <div className="flex items-center gap-3">
               <div className="flex h-12 w-12 items-center justify-center overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-slate-200">
-                <img src={logo} alt="Logo" className="h-12 w-auto object-contain" />
+                <img src={logo} alt="Logo" className="h-20 w-auto object-contain" />
               </div>
               <div>
                 <p className="text-xs font-semibold uppercase tracking-[0.24em] text-slate-500">Admin console</p>
@@ -1063,7 +1063,7 @@ export default function PackageTrackingPage() {
         <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 px-4 py-4 sm:px-6 lg:px-8">
          <div className="flex items-center gap-3">
             <div className="flex h-12 w-12 items-center justify-center overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-slate-200">
-              <img src={logo} alt="Logo" className="h-12 w-auto object-contain" />
+              <img src={logo} alt="Logo" className="h-20 w-auto object-contain" />
             </div>
             <div>
               <p className="text-xs font-semibold uppercase tracking-[0.24em] text-slate-500">Production Ready UI</p>
@@ -1089,7 +1089,7 @@ export default function PackageTrackingPage() {
           <div className="grid grid-cols-1 gap-8 px-6 py-8 md:px-8 lg:grid-cols-[1.2fr_0.8fr]">
             <div>
               <p className="text-sm font-medium uppercase tracking-[0.22em] text-blue-100"></p>
-              <h2 className="mt-2 text-3xl font-bold tracking-tight md:text-4xl">Seguimiento profesional de carga, courier y transporte</h2>
+              <h2 className="mt-2 text-3xl font-bold tracking-tight md:text-4xl">Seguimientoo profesional de carga, courier y transporte</h2>
               <p className="mt-3 max-w-2xl text-sm text-blue-50 md:text-base">
                 Búsqueda por tracking, booking o B/L; línea de tiempo operativa; detalle de contenedores; documentos asociados y visualización de ruta.
               </p>
