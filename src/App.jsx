@@ -774,9 +774,9 @@ export default function PackageTrackingPage() {
           </div>
 
           <div className="rounded-[28px] border border-slate-200 bg-white p-8 shadow-sm">
-            <div className="flex items-center gap-3">
-              <div className="flex h-12 w-12 items-center justify-center overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-slate-200">
-                <img src={logo} alt="Logo" className="h-20 w-auto object-contain" />
+            <div className="flex items-center gap-4">
+              <div className="flex items-center justify-center rounded-2xl bg-white px-3 py-2 shadow-sm ring-1 ring-slate-200">
+                <img src={logo} alt="Logo" className="h-16 w-auto object-contain" />
               </div>
               <div>
                 <p className="text-sm font-semibold uppercase tracking-[0.18em] text-slate-500">Secure access</p>
@@ -814,8 +814,8 @@ export default function PackageTrackingPage() {
         <div className="border-b border-slate-200 bg-white/95 backdrop-blur">
           <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 px-4 py-4 sm:px-6 lg:px-8">
             <div className="flex items-center gap-3">
-              <div className="flex h-12 w-12 items-center justify-center overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-slate-200">
-                <img src={logo} alt="Logo" className="h-20 w-auto object-contain" />
+              <div className="flex h-11 w-11 items-center justify-center rounded-2xl bg-[#0f4ea3] text-white shadow-sm">
+                <LayoutDashboard className="h-5 w-5" />
               </div>
               <div>
                 <p className="text-xs font-semibold uppercase tracking-[0.24em] text-slate-500">Admin console</p>
@@ -1061,12 +1061,12 @@ export default function PackageTrackingPage() {
     <div className="min-h-screen bg-[#f4f7fb] text-slate-900">
       <div className="border-b border-slate-200 bg-white/95 backdrop-blur">
         <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 px-4 py-4 sm:px-6 lg:px-8">
-         <div className="flex items-center gap-3">
-            <div className="flex h-12 w-12 items-center justify-center overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-slate-200">
-              <img src={logo} alt="Logo" className="h-20 w-auto object-contain" />
+          <div className="flex items-center gap-4">
+            <div className="flex items-center justify-center rounded-2xl bg-white px-3 py-2 shadow-sm ring-1 ring-slate-200">
+              <img src={logo} alt="Logo" className="h-16 w-auto object-contain" />
             </div>
             <div>
-              <p className="text-xs font-semibold uppercase tracking-[0.24em] text-slate-500">Production Ready UI</p>
+              <p className="text-xs font-semibold uppercase tracking-[0.24em] text-slate-500">COSCO SHIPPING ECUADOR</p>
               <h1 className="text-xl font-bold tracking-tight text-[#0b2b5b]">Portal de Seguimiento Logístico</h1>
             </div>
           </div>
