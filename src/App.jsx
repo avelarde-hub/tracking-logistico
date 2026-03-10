@@ -776,14 +776,14 @@ export default function PackageTrackingPage() {
           <div className="rounded-[28px] border border-slate-200 bg-white p-8 shadow-sm">
             <div className="flex items-center gap-3">
               <div className="flex h-12 w-12 items-center justify-center overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-slate-200">
-                <img src={logo} alt="Logo" className="h-10 w-auto object-contain" />
+                <img src={logo} alt="Logo" className="h-12 w-auto object-contain" />
               </div>
               <div>
                 <p className="text-sm font-semibold uppercase tracking-[0.18em] text-slate-500">Secure access</p>
                 <h2 className="text-2xl font-bold text-[#0b2b5b]">Ingreso administrador</h2>
               </div>
             </div>
-            
+
             <div className="mt-8 space-y-4">
               <Field label="Usuario" value={loginForm.user} onChange={(e) => setLoginForm((prev) => ({ ...prev, user: e.target.value }))} placeholder="admin" />
               <Field label="Contraseña" type="password" value={loginForm.password} onChange={(e) => setLoginForm((prev) => ({ ...prev, password: e.target.value }))} placeholder="••••••••" />
@@ -815,7 +815,7 @@ export default function PackageTrackingPage() {
           <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 px-4 py-4 sm:px-6 lg:px-8">
             <div className="flex items-center gap-3">
               <div className="flex h-12 w-12 items-center justify-center overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-slate-200">
-                <img src={logo} alt="Logo" className="h-10 w-auto object-contain" />
+                <img src={logo} alt="Logo" className="h-12 w-auto object-contain" />
               </div>
               <div>
                 <p className="text-xs font-semibold uppercase tracking-[0.24em] text-slate-500">Admin console</p>
@@ -1063,7 +1063,7 @@ export default function PackageTrackingPage() {
         <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 px-4 py-4 sm:px-6 lg:px-8">
          <div className="flex items-center gap-3">
             <div className="flex h-12 w-12 items-center justify-center overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-slate-200">
-              <img src={logo} alt="Logo" className="h-10 w-auto object-contain" />
+              <img src={logo} alt="Logo" className="h-12 w-auto object-contain" />
             </div>
             <div>
               <p className="text-xs font-semibold uppercase tracking-[0.24em] text-slate-500">Production Ready UI</p>
