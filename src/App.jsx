@@ -52,7 +52,7 @@ const initialShipments = [
     eta: "15 Mar 2026",
     etd: "17 Ene 2026",
     transitDays: 58,
-    customer: "Andes Trade S.A.",
+    customer: "Tesoulsing",
     consignee: "Distribuciones Pacífico",
     grossWeight: "18,420 kg",
     volume: "58.4 CBM",
