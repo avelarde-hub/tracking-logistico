@@ -59,8 +59,8 @@ const initialShipments = [
     packages: 112,
     incoterm: "CIF", 
     lastEvent: "Arrived at transshipment port",
-    lastEventEs: "Arribó al puerto de transbordo",
-    progress: 72,
+    lastEventEs: "Rumbo al puerto de destino",
+    progress: 85,
     routePoints: [
       { name: "Génova", type: "Puerto de origen", done: true },
       { name: "Panamá", type: "Transbordo", done: true },
