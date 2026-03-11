@@ -839,7 +839,7 @@ export default function PackageTrackingPage() {
                 <p className="text-sm font-semibold uppercase tracking-[0.22em] text-blue-100">Operational control</p>
                 <h2 className="mt-2 text-3xl font-bold tracking-tight md:text-4xl">CRUD completo de embarques, eventos y documentos</h2>
                 <p className="mt-3 max-w-3xl text-sm text-blue-50 md:text-base">
-                  Consola para mantener registros logísticos, controlar estados, crear hitos operativos y administrar documentos asociados. La estructura está lista para conectarse a SQL Server y API REST.
+                  Consola para mantener registros logísticos, controlar estados, crear hitos operativos y administrar documentos asociados.
                 </p>
               </div>
               <div className="rounded-2xl border border-white/15 bg-white/10 px-5 py-4 backdrop-blur">
