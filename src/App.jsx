@@ -1090,7 +1090,7 @@ export default function PackageTrackingPage() {
               <div className="mt-6 grid grid-cols-1 gap-3 sm:grid-cols-3">
                 <div className="rounded-2xl border border-white/15 bg-white/10 p-4 backdrop-blur">
                   <p className="text-xs uppercase tracking-[0.16em] text-blue-100">Disponibilidad</p>
-                  <p className="mt-2 text-2xl font-bold">99.9%</p>
+                  <p className="mt-2 text-2xl font-bold">24/7</p>
                 </div>
                 <div className="rounded-2xl border border-white/15 bg-white/10 p-4 backdrop-blur">
                   <p className="text-xs uppercase tracking-[0.16em] text-blue-100">Eventos</p>
