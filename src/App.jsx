@@ -49,7 +49,7 @@ const initialShipments = [
     destinationPort: "Puerto Marítimo de Posorja",
     vessel: "Geapmthemv260sE",
     voyage: "068E",
-    eta: "15 Mar 2026",
+    eta: "16 Mar 2026",
     etd: "17 Ene 2026",
     transitDays: 58,
     customer: "Tesoulsing",
@@ -99,7 +99,7 @@ const initialShipments = [
         done: true,
       },
       {
-        date: "15 Mar 2026 · Estimado",
+        date: "16 Mar 2026 · Estimado",
         title: "Arribo a destino",
         detail: "Arribo estimado al puerto de Posorja-Guayaquil, sujeto a condiciones operativas y navieras.",
         location: "Posorja-Guayaquil",
